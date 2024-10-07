@@ -13,7 +13,7 @@ body {
     box-sizing: border-box;
     background-color: #f8f9fa;
     overflow-x: hidden;
-    /* Чтобы не появлялся горизонтальный скролл */
+    overflow-x: none;
 }
 
 .header {
