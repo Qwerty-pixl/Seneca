@@ -364,7 +364,7 @@ section {
 
 .card-3d {
     width: 500px;
-    height: 500px;
+    aspect-ratio: 1 / 1;
 }
 
 .front,
@@ -523,8 +523,8 @@ section {
     }
 
     .card-3d {
-        width: 280px;
-        height: 400px;
+        width: 380px;
+        aspect-ratio: 1 / 1;
     }
 
     .front,
@@ -556,8 +556,8 @@ section {
     }
 
     .card-3d {
-        width: 240px;
-        height: 320px;
+        width: 350px;
+        aspect-ratio: 1 / 1;
     }
 
     .back_content {
